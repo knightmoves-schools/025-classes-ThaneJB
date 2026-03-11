@@ -2,4 +2,9 @@
 public class Party
 {
     // Add your code here
+    public class Person(string firstName, string lastName){
+
+    }
+
+    public string[] Guests = {this.Person, this.Person, this.Person};
 }
