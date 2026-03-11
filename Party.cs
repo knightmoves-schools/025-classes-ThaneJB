@@ -6,5 +6,5 @@ public class Party
 
     }
 
-    public string[] Guests = {this.Person, this.Person, this.Person};
+    public string[] Guests = {Person, Person, Person};
 }
