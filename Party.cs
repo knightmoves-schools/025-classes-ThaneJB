@@ -1,8 +1,6 @@
 ﻿namespace knightmoves;
-public class Party
-{
-    // Add your code here
-    public class Person{
+
+public class Person{
         public string firstName;
         public string lastName;
 
@@ -12,9 +10,9 @@ public class Party
         }
     }
 
-    public class Event{
-        public static Person[] Guests = new Person[3];
-    }
-
-    
+public class Party
+{
+    // Add your code here
+    public static Person[] Guests = new Person[3];
+     
 }
