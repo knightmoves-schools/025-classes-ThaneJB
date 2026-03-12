@@ -13,6 +13,11 @@ public class Person{
 public class Party
 {
     // Add your code here
-    public Person[] Guests = new Person[3];
+    public Person[] Guests = new Person[]{
+
+        new Person("",""),
+        new Person("",""),
+        new Person("","")
+    };
      
 }
