@@ -13,6 +13,6 @@ public class Person{
 public class Party
 {
     // Add your code here
-    public static Person[] Guests = new Person[3];
+    public Person[] Guests = new Person[3];
      
 }
